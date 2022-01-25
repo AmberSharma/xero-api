@@ -1,0 +1,12 @@
+{
+    "name": "amber/xero-api",
+    "authors": [
+        {
+            "name": "Amber Sharma",
+            "email": "amber.sharma@gartner.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.5"
+    }
+}
